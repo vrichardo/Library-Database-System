@@ -11,6 +11,8 @@ The system incorporates core database design principles and applies real-world s
 * SQL query design
 * Database Interaction via GUI
 ## Project Structure
+### documentation/
+Contains all project document
 
 ## Tools and Technologies 
 ## Team
