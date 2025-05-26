@@ -1,11 +1,19 @@
 # Library-Database-System
-This project was developed for my Database Organization class in Spring 2023 at the Illinois Institute of Technology. My team and I designed a library database system to serve various stakeholders.
+## Overview
+This project was developed as part of the Database Organization course at the Illinois Institute of Technology during Spring 2023. It was a collaborative effort by our team to design and implement a fully functional library management database system that meets the needs of multiple stakeholders, including librarians, members, and administrators.
 
-The project integrated key database concepts learned throughout the semester, including normalization, SQL queries, business rule design, relational schemas, and E-R diagrams.
+The system incorporates core database design principles and applies real-world scenarios to reinforce concepts learned throughout the course.
+## Key Concept Applied
+* Business Rule Formulation
+* Relational Schema Design
+* Entity-Relational (E-R) Modeling
+* Data Normalization (Up to 3NF)
+* SQL query design
+* Database Interaction via GUI
+## Project Structure
 
-## documents
-Project documentation, including business rules, relational schemas, and E-R diagrams, is available in the **documentation** folder. A user guide with instructions on interacting with the database GUI is also included.
-
+## Tools and Technologies 
+## Team
 
 
 
