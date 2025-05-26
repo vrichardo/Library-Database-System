@@ -12,10 +12,29 @@ The system incorporates core database design principles and applies real-world s
 * Database Interaction via GUI
 ## Project Structure
 ### documentation/
-Contains all project document
+Contains all project document, which includes:
+* Project Deliverable
+* Project Presentation
+* Business Rules
+* Relational Schemas
+* E-R Diagram
+* User guide for interacting with database GUI
+
+### LibraryDatabase.sql
+  .sql file of database
+
+### library_interface.py
+  Python file for interaction with database
 
 ## Tools and Technologies 
+* Python
+* MySQL
+  
 ## Team
+* Vincent Richardo
+* Charles de Fiesta
+* Jeremy Cueva
+* Ty Dwyer
 
 
 
